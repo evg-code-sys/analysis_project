@@ -19,6 +19,10 @@
 - _Matplotlib, Seaborn_ - визуализация;
 - _Jupyter notebook_ - среда разработки. 
 
+### Файлы:
+1. Главный рабочий файл: `Analysis_internet_market.ipynb`;
+2. Исходная таблица: `shop_sales_data.csv`.
+
 # Как запустить проект:
 1. Установите зависимости: `pip install -r requirements.txt`
 2. Откройте `Analysis_internet_market.ipynb` в Jupyter Notebook или любой среде разработки, которая поддерживает Jupyter Notebook 
